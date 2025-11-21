@@ -32,7 +32,7 @@ class MainMenu extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Main Menu',
+              'FLUTTERINGS!',
               style: TextStyle(color: Colors.white, fontSize: 40),
             ),
             const SizedBox(height: 40),
